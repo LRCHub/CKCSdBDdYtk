@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "魔法をかけて",
+  "base_artist": "アイビーカラー",
+  "createdAt": "2026-02-18T16:20:30.021652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔法をかけて! (M@STER VERSION) [ORT]",
+      "artist": "天海春香(CV:中村繪里子)、萩原雪歩(CV:落合祐里香)、秋月律子(CV:若林直美)",
+      "has_synced": true,
+      "path": "select/01_魔法をかけて!_(M@STER_VERSION)_[ORT]_天海春香(CV_中村繪里子)、萩原雪歩(CV_落合祐里香)、秋月律子(CV_若林直美).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔法をかけて！ - M@STER VERSION",
+      "artist": "天海春香 (CV: 中村繪里子)",
+      "has_synced": true,
+      "path": "select/02_魔法をかけて!_-_M@STER_VERSION_天海春香_(CV__中村繪里子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魔法をかけて!",
+      "artist": "秋月律子(CV:若林直美)",
+      "has_synced": false,
+      "path": "select/03_魔法をかけて!_秋月律子(CV_若林直美).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法をかけて",
+      "artist": "アイビーカラー",
+      "has_synced": false,
+      "path": "select/pl_01_魔法をかけて_アイビーカラー.txt"
+    }
+  ]
+}
